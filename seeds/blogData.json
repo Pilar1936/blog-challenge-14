@@ -1,16 +1,13 @@
 [
     {
-      "title": "",
-      "description": ""
+      "title:": "Hola",
+      "contenido_blog": "bienvenido a mi mundo",
+      "user_id": 1,
     },
-
     {
-        "title": "",
-        "description": ""
-      },
-     
-      {
-        "title": "",
-        "description": ""
-      }
+      "title:": "Hello",
+      "contenido_blog": "welcome...",
+      "user_id": 2,
+
+    }
   ]
